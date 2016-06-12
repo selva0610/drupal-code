@@ -1,0 +1,7 @@
+name = TI LSG HLT Search External
+description = Module to fetch the content from external site
+core = 7.x
+package = Health
+version = 7.x-1.0
+configure = admin/config/search/external_settings
+project = ti_lsg_hlt_search_external
